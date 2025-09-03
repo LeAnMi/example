@@ -1,2 +1,2 @@
-Hello World!   see if this works from VSCode
+Hello World!   see if this works from bash terminal
 
